@@ -1,6 +1,7 @@
-  Салют, меня зовут Артур! 👋
+   Салют, меня зовут Артур! 👋
 - Занимаюсь аналитикой данных 💻
 - Профессионально играл в хоккей 🏒
+- Telegram: @vagarthur
 
 <!---
 vagarthur/vagarthur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
