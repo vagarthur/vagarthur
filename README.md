@@ -6,6 +6,8 @@
 
 Я аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
+- 💪 Работаю в нефтегазовой отрасли
+  
 - 🙉 Завершил курсы по аналитике данных Karpov Cources! 
 
 - 🏒 Профессионально играл в хоккей 
