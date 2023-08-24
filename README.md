@@ -1,9 +1,15 @@
-   Салют, меня зовут Алексей!
-- Занимаюсь аналитикой данных 💻
-- Профессионально играл в хоккей 🏒
-- Telegram: @vagarthur
+# Привет, меня зовут Артур!
 
-<!---
-vagarthur/vagarthur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### :man_technologist: Обо мне:
+
+Я аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+
+- Завершил курсы по аналитике данных Karpov Cources! 🙉
+
+- Профессионально играл в хоккей 🏒
+
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vagarthur)
+---
+
